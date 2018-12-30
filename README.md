@@ -2,6 +2,12 @@
 
 A simple flutter calulator which perform addition, subtraction, multiplication and division operation.
 
+<p align="center">
+  <img src="https://github.com/Wizpna/my_calculator/blob/master/Screenshot_20181230-122243.png" width="350" title="Screenshot">
+  <img src="https://github.com/Wizpna/my_calculator/blob/master/Screenshot_20181230-122320.png" width="350" alt="accessibility text">
+</p>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
