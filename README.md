@@ -1,6 +1,6 @@
 # my_calculator
 
-A new Flutter project.
+A simple flutter calulator which perform addition, subtraction, multiplication and division operation.
 
 ## Getting Started
 
